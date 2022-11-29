@@ -1,5 +1,12 @@
 #WLDS
 # Steps:###
+Data***
+data/WAV contains all the audio samples used. The file naming convention is used to label the samples.
+data/out contains the outputs generated.
+    1. dataset_1.csv - got from extracting features from .WAV files
+    2. .png files are the plots for the fitted model - for different test splits and #epochs
+    3. results_0 and metrics_0
+***
 
 1. Prep.ipynb - to figure out which features need to be extracted. Experiements are done with several parameters
         a) On one sample hardcoded data file, data_21_FD.wav, extract different features
@@ -15,6 +22,8 @@
         d) split the data in different proportions (train_test_split)
         d) Fit and train the model for differnt epochs and for the different test proportions
         e) Analyse the accuracy and loss for the different sets
+
+
 
 
 
