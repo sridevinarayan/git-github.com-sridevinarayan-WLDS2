@@ -5,7 +5,7 @@ data/WAV contains all the audio samples used. The file naming convention is used
 data/out contains the outputs generated.
     1. dataset_1.csv - got from extracting features from .WAV files
     2. .png files are the plots for the fitted model - for different test splits and #epochs
-    3. results_0 and metrics_0
+    3. plots_1 and metrics_1
 ***
 
 1. Prep.ipynb - to figure out which features need to be extracted. Experiements are done with several parameters
