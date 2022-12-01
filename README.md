@@ -22,7 +22,7 @@ data/out contains the outputs generated.
         d) split the data in different proportions (train_test_split)
         d) Fit and train the model for differnt epochs and for the different test proportions
         e) PLot the accuracy and loss for the different sets
-4. summariy.ipynb - check the trands for acc and loss across test splits for different epochs for normalized and umnormalized data. Also Precision and recall - outputs availalbe in  prediction_anal.csv and precison.png and recall.png
+4. summariy.ipynb - check the trands for acc and loss across test splits for different epochs for normalized and umnormalized data. Also Precision and recall - outputs availalbe in  prediction_anal.csv and precison.png and recall.png 
 
 
 
